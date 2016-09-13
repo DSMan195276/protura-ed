@@ -1,0 +1,4 @@
+Changes in version 1.13:
+
+A memory leak and a resource leak (file not closed on error) have been
+fixed. (Both issues were reported by Cédric Picard).
